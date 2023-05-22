@@ -1,0 +1,21 @@
+/*--------------------------------------------- Site name formats */
+.nameSite{
+    color: chartreuse;
+    font-family: ui-serif;
+    font-size: xx-large;
+}
+
+/*------------------------------------------- Menu button layouts */
+.list{
+    background-color: chartreuse;
+}
+
+/*-------------------------------- Categories list button layouts */
+.span{
+    color: chartreuse;
+}
+
+/*-------------------------------------------- Categories formats */
+.lSC{
+    color: #448900;
+}
